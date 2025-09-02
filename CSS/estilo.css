@@ -308,7 +308,7 @@ img.mostruario {
 
 @media screen and (max-width: 768px) {
   article{
-    width: 50%;
+    width: 30%;
   }
   #inicio-1{
     width: 100%;
@@ -321,4 +321,5 @@ img.mostruario {
   }
 
 }
+
 
