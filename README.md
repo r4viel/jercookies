@@ -1,2 +1,2 @@
-# jercookies
-o site final da jer cookies
+# RAVI cookies
+o site final da RAVI Cookies
