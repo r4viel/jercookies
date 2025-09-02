@@ -237,6 +237,7 @@ header {
 }
 /*Botão de mudar tema*/
 .botao-tema {
+  margin-top: 40px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -308,7 +309,9 @@ img.mostruario {
 
 @media screen and (max-width: 768px) {
   article{
+    display: inline;
     width: 90%;
+    flex-direction: column;
   }
   #inicio-1{
     width: 100%;
@@ -319,8 +322,7 @@ img.mostruario {
     display: flex;
     justify-content: center;
   }
-
+  .mostruario{
+  max-width: 190px ;
 }
-
-
-
+}
