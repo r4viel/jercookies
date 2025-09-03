@@ -337,7 +337,11 @@ img.mostruario {
 }
   hr{
     width: 250px ;
+    margin-left: auto;
+    margin-rigth: auto ;
   }
+  
 }
+
 
 
