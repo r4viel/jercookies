@@ -335,5 +335,9 @@ img.mostruario {
   .mostruario{
   max-width: 190px ;
 }
+  hr{
+    width: 250px ;
+  }
 }
+
 
